@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Radhey
-- 👀 I’m interested in Web and mobile Devlopment.I use ReactJS, React Native, ExpressJS.
+- 👀 I’m interested in Web and mobile Development. I use ReactJS, React Native, ExpressJS.
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on OpenSource tech
 - 📫 How to reach me Twitter @radhey011
