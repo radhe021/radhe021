@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Radhey
-- 👀 I’m interested in Web and mobile Development. I use ReactJS, React Native,Qwik, ExpressJS,.NET
+- 👀 I’m interested in Web and mobile Development. I use ReactJS, React Native,Qwik, ExpressJS,.NET,FastAPI
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on OpenSource tech
 - 📫 How to reach me Twitter @radhey011
